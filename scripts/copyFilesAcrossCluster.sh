@@ -8,7 +8,7 @@
 # Begin: USER INPUTS
 TotInst=80  # total number of instances (Assumption: This matches the number of files. Not necessary. Script needs minor modification in that case)
 Nodes=4     # test was run on salty. Hence the names of nodes salty1, salty2... in comments below.    
-FOLDER="/public/FinancePOC/PDQ/BinaryData_tas_20150818"
+FOLDER="/public/FinancePOC/PDQ/BinaryData_tas_20150818/taq_data"
 NAME="tas_20150818.bin"
 # End: USER INPUTS
 
