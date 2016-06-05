@@ -14,3 +14,6 @@ SOLUTION:
  
 EXAMPLE:
  - `queries_59_1.*` are provided as an example of intermediate and final output
+
+NOTE:
+ - `attempt1_py` folder captures initial attempt by using Python calculations, sleep at appropriate times, but not forking processes
